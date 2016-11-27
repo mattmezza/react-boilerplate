@@ -1,0 +1,13 @@
+.box {
+  background-color: #efefef;
+  border: 1px solid #dedede;
+  padding: 30px;
+  margin: 10px auto;
+  display: inline-block;
+}
+
+.TodoList {
+  list-style: square;
+  padding: 0;
+  margin: 0;
+}
