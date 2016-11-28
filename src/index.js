@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import App from './App';
-import TodoApp from './components/todo/TodoApp';
 import './index.css';
 
 ReactDOM.render(
@@ -9,7 +9,7 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-ReactDOM.render(
-  <TodoApp />,
-  document.getElementById('TodoApp')
-);
+// ReactDOM.render(
+//   <TodoApp />,
+//   document.getElementById('TodoApp')
+// );
